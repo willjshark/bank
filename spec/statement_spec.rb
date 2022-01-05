@@ -1,4 +1,4 @@
-require 'statement'
+require './lib/statement'
 
 describe Statement do
 
