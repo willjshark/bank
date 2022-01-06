@@ -1,4 +1,7 @@
+# frozen_string_literal: true
+
 source 'https://rubygems.org'
 
-gem 'rspec'
 gem 'pg'
+gem 'rspec'
+gem 'rubocop', require: false
